@@ -1,3 +1,4 @@
+print("Hajrá fradi!")
 #1
 
 import random
